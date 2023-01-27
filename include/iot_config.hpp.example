@@ -1,0 +1,11 @@
+#define WIFI_NAME "WIFI_NAME"
+#define WIFI_PASS "WIFI_PASS"
+
+#define BROKER_HOST "BROKER.HOST.COM"
+#define BROKER_PORT 1234
+
+#define COMPANY "com.company.name"
+
+#define DEVICE_ID "device_id"
+#define LED_COUNT 99
+#define LED_PIN 1
